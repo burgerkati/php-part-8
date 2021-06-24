@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP pt.8 exercice_1</title>
+    <title>PHP pt.8 exercice_2</title>
   </head>
   <body>
   <?php
