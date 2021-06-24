@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP pt.8 exercice_5</title>
   </head>
-  <!-- Afficher le timestamp courant et afficher le timestamp du 1er février 2021. -->
   <body>
   <?php
   // set default timezone
