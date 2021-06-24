@@ -13,7 +13,7 @@
   // create current timestamp
   $date=date_create();
   date_timestamp_get($date);
-  // output of current timestamp
+  // output of current timestamp from 24th of June 2021 around 15h30
   echo "The current timestamp is" . date_format($date, "U = Y-m-d") . "<br>";
   // change current timestamp to 1st of February 2021 from 24th of June 2021
   $date=strtotime("-21 Weeks + 4 Days");
