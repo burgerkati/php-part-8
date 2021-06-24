@@ -8,7 +8,7 @@
   </head>
   <body>
   <?php
-  // prints day of the week day month and year
+  // prints day of the weekday name day month and year
   echo "Today's date is: " . date('l jS \of F Y');
   ?>
   </body>
